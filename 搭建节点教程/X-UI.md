@@ -4,6 +4,6 @@
 
 ## 准备工作
 
-    1. [谷歌云VPS](https://cloud.google.com)
-    2. [Xshell客户端](https://www.xshell.com)
-    3. [CloudFlare域名](https://www.cloudflare.com)
+> 1. [谷歌云VPS](https://cloud.google.com)
+> 2. [Xshell客户端](https://www.xshell.com)
+> 3. [CloudFlare域名](https://www.cloudflare.com)
